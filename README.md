@@ -37,25 +37,25 @@ Machine Learning, Data Analysis, Computer Vision, Backend Systems, Web Developme
 
 ### Car Object Detection System
 - Developed custom CNN and YOLO-based detection models  
-- Trained on real-world dataset and evaluated using precision, recall, and mAP  
-- Implemented data preprocessing, model training, and performance benchmarking  
+- Trained on real-world dataset  
+- Evaluated using precision, recall, and mAP metrics  
 
 ### Data Analysis & Visualization
-- Conducted Exploratory Data Analysis (EDA)  
+- Performed Exploratory Data Analysis (EDA)  
 - Generated statistical summaries and visual insights  
 - Delivered structured reports with actionable conclusions  
 
 ### Full Stack Web Applications
 - Designed responsive front-end interfaces  
-- Implemented backend logic and database connectivity  
-- Developed REST-based application workflows  
+- Implemented backend logic and REST APIs  
+- Integrated relational databases  
 
 ---
 
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyamraj721&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=satyamraj721&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" height="160"/>
 </p>
 
 ---
