@@ -1,13 +1,13 @@
 <h1 align="center">Satyam Raj</h1>
 <p align="center">
-AI & Data Science Enthusiast | Full Stack Developer
+AI & Data Science Undergraduate | IIT Madras BS (Data Science) | Backend Developer
 </p>
 
 ---
 
 ## Professional Summary
 
-Detail-oriented Computer Science (AI) undergraduate with strong foundations in machine learning, data science, and backend development. Experienced in building real-world systems including object detection models and data-driven web applications. Focused on writing clean, scalable, and maintainable code.
+Detail-oriented Computer Science (AI) undergraduate with strong foundations in Machine Learning, Data Science, and Backend Development. Experienced in building real-world systems including object detection models and full-stack web applications. Focused on writing clean, scalable, and maintainable code.
 
 Open to internships and entry-level opportunities in AI, Data Science, and Backend Development.
 
@@ -15,7 +15,7 @@ Open to internships and entry-level opportunities in AI, Data Science, and Backe
 
 ## Education
 
-- **B.Tech in Computer Science (AI)**
+- **B.Tech in Computer Science (Artificial Intelligence)**
 - **BS in Data Science & Applications – IIT Madras**
 
 ---
@@ -29,26 +29,26 @@ Python, Java, JavaScript, SQL
 TensorFlow, OpenCV, YOLO, MySQL, Git, GitHub  
 
 **Core Areas:**  
-Machine Learning, Data Analysis, Computer Vision, Web Development  
+Machine Learning, Data Analysis, Computer Vision, Backend Systems, Web Development  
 
 ---
 
 ## Selected Projects
 
 ### Car Object Detection System
-- Implemented custom CNN and YOLO-based model  
-- Trained and evaluated on Kaggle dataset  
-- Measured performance using precision, recall, and mAP  
+- Developed custom CNN and YOLO-based detection models  
+- Trained on real-world dataset and evaluated using precision, recall, and mAP  
+- Implemented data preprocessing, model training, and performance benchmarking  
 
-### Data Analysis Projects
-- Performed Exploratory Data Analysis (EDA)  
-- Built visual dashboards and statistical summaries  
-- Delivered actionable insights from datasets  
+### Data Analysis & Visualization
+- Conducted Exploratory Data Analysis (EDA)  
+- Generated statistical summaries and visual insights  
+- Delivered structured reports with actionable conclusions  
 
 ### Full Stack Web Applications
-- Developed responsive frontend interfaces  
-- Implemented backend logic and REST APIs  
-- Integrated relational databases  
+- Designed responsive front-end interfaces  
+- Implemented backend logic and database connectivity  
+- Developed REST-based application workflows  
 
 ---
 
@@ -63,7 +63,7 @@ Machine Learning, Data Analysis, Computer Vision, Web Development
 ## Professional Interests
 
 - Applied Machine Learning  
-- Scalable Backend Systems  
+- Scalable Backend Architecture  
 - Data-Driven Product Development  
 
 ---
@@ -75,4 +75,4 @@ Machine Learning, Data Analysis, Computer Vision, Web Development
 
 ---
 
-<sub>Committed to continuous learning and engineering high-impact solutions.</sub>
+<sub>Committed to continuous learning and building high-impact engineering solutions.</sub>
